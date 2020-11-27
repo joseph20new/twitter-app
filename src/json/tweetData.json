@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dt101",
+    "code": "dt",
+    "name": "Donald Trump",
+    "imgUrl": "https://www.whitehouse.gov/wp-content/uploads/2017/11/President-Trump-Official-Portrait-200x200.jpg",
+    "tweets": {
+      "0": "For purposes of National Security, Section 230 must be immediately terminated!!!",
+      "1": "Twitter is sending out totally false “Trends” that have absolutely nothing to do with what is really trending in the world. They make it up, and only negative “stuff”. Same thing will happen to Twitter as is happening to.",
+      "3": "I gave a long news conference today after wishing the military a Happy Thanksgiving, & realized once again that the Fake News Media coordinates so that the real message of such a conference never gets out. Primary point made was that the 2020 Election was RIGGED, and that I WON!",
+      "4": "Will go down much further. Weekend daytime even worse, dead. They still don’t get it. Fantastic alternatives! The late/great Roger Ailes is seriously missed, but I still won LEGAL VOTES by a lot!!!"
+    }
+  },
+  {
+    "id": "hc101",
+    "code": "hc",
+    "name": "Hillary Clinton",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg/330px-Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg",
+    "tweets": {
+      "0": "2016 Democratic Nominee, SecState, Senator, hair icon. Mom, Wife, Grandma x3, lawyer, advocate, fan of walks in the woods & standing up for our democracy.",
+      "1": "To all the little girls watching...never doubt that you are valuable and powerful & deserving of every chance & opportunity in the world.",
+      "3": "Every Thanksgiving that looks different this year is an act of love and solidarity.Thank you for keeping your gatherings small, safe, or over Zoom.You’re helping to make sure more Americans will be around to celebrate next year—with, I hope, double the hugs for grandma.",
+      "4": "At his inauguration as New York City’s first Black mayor, David Dinkins said: “We have not finished the journey toward liberty and justice, but surely we have come a long way.” He was a trailblazer, a gentleman, and my friend. Bill and I send our condolences to all who loved him."
+    }
+  }
+]
