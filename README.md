@@ -1,4 +1,6 @@
-# Busbud Front-End Coding Challenge
+# Twitter Front-End Coding Challenge
+
+Application Deployed - https://twitter-app-staging.herokuapp.com/
 
 # Notes
 1. Choose any person to load tweets.
