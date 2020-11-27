@@ -1,9 +1,7 @@
 # Busbud Front-End Coding Challenge
 
 # Notes
-1. Search is fixed between Quebec to Montreal.
-2. You can change date in datepicker and iniate new search.
-3. There is a pollig after every request until 'complete; in response is true.
-4. Polling is after every 2 sec.
-5. Pagination after specific number of departures to avoid duplication of data while polling.
-6. Language can be switeched between English and French
+1. Choose any person to load tweets.
+2. Data has been generated from local json as I do not want to authenticate Twitter with my consumer key , id , access token.
+3. You might not see request in network as I have commented the twitter api in sagas. Everything has been configured to a point call is amde to Twitter.
+4. Language can be switched between English and French.
